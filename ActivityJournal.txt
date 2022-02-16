@@ -1,0 +1,200 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Daniel Cho
+
+================================================================
+process_word
+Start
+Estimated Time	2HH 0MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+1. I encountered problems with understanding the algorithms.
+2. I learned how to use linked list pointers correctly.
+3. I overcame the problems by thoroughly looking at the slide notes.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_first_word
+Start
+Estimated Time	1HH 30MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1HH 00MM
+Observations:
+1. I encountered problems with understanding the algorithms.
+2. I learned how to use pointers correctly for first node.
+3. I overcame the problems by thoroughly looking at the slide notes.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_next_word
+Start
+Estimated Time	1HH 30MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	0HH 30MM
+Observations:
+1. I learned how to use pointers correctly for next node.
+2. I overcame the problems by thoroughly looking at the slide notes.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_last_word
+Start
+Estimated Time	1HH 0MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	0HH 10MM
+Observations:
+1. I encountered problems with understanding the algorithms.
+2. I learned how to use pointers correctly for last node.
+3. I overcame the problems by thoroughly looking at the slide notes.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_prev_word
+Start
+Estimated Time	0HH 30MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	0HH 20MM
+Observations:
+1. I learned how to use pointers correctly for previous node.
+2. I overcame the problems by thoroughly looking at the slide notes.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+read_file through test 56
+Start
+Estimated Time	1HH 0MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	3HH 0MM
+Observations:
+1. I learned how to read each character in a file through a loop.
+2. I overcame the problems by using outside sources.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+read_file MLK_dream_excerpt only
+Start
+Estimated Time	1HH 00MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	0HH 30MM
+Observations:
+1. I learned how to read each character in a file through a loop.
+2. I overcame the problems by using outside sources.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+write_unique_word_list_to_csv_file
+Start
+Estimated Time	1HH 00MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+1. I learned how to use fprintf() correctly.
+2. I overcame the problems by using outside sources.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Add four unit tests to the unit_tests_student.c file
+Start
+Estimated Time	1HH 0MM
+Plan:
+1. Look at the instructions and lecture notes.
+2. Build the frame of the code.
+3. Include all the details of the code.
+4. See if your program works as it has to.
+5. If not, figure out where the problems come from and fix them.
+6. Finish up with the entire code and run it again to test for the last time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+1. I encountered problems with understanding the test assertion syntax correctly.
+2. I learned how to do use test assertions correctly. 
+3. I overcame the problems by using outside sources.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
